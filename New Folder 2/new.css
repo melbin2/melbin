@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    color: blueviolet;
+    background-color: blue;
+    border-style: ridge;
+}
+p{
+    text-decoration: underline;
+}
+h3{
+    color: forestgreen;
+}
+body{background: #ffa2a2;
+
+}
+table{
+    text-underline-offset: ;
+    border: 2px;
+    color: chartreuse;
+    background-color: black;
+}
